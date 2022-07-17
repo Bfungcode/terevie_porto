@@ -2,7 +2,6 @@ import './App.css';
 import NavigationBar from './components/NavigationBar';
 import Intro from './components/Intro';
 import Trending from './components/Trending';
-import StarWars from './components/StarWars';
 import "./style/landingPage.css"
 function App() {
     return (
@@ -14,10 +13,6 @@ function App() {
 
             <div className="trending">
                 <Trending />
-            </div>
-
-            <div className="starwars">*/
-                <StarWars />
             </div>
         </div>
     );

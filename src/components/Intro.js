@@ -9,10 +9,9 @@ const Intro = () => {
                         <div>
                             <img className="logo-icon" src={logoImage}></img>
                         </div>
-                        <div className="title">CLAIR & MOVIES</div>
-                        <div className="title">ELITE MOVIES RATER</div>
+                        <div className="title">TEREVIE</div>
+                        <div className="title">MOVIE FETCH API EXAMPLE</div>
                         <div className="introButton mt-4 text-center">
-                            <button variant="dark">See All List</button>
                         </div>
                     </Col>
                 </Row>

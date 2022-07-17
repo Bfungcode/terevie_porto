@@ -1,12 +1,6 @@
 import { useEffect, useState } from "react"
 import { Card, Container, Row, Col } from "react-bootstrap"
-import jokerImage from "../assets/trending/trending/joker.jpg"
-import godzillaImage from "../assets/trending/trending/godzilla.jpg"
-import inceptionImage from "../assets/trending/trending/inception.jpg"
-import endgameImage from "../assets/trending/trending/endgame.jpg"
-import rosImage from "../assets/trending/trending/ros.jpg"
-import tljImage from "../assets/trending/trending/tlj.jpg"
-import axios from "axios"
+import axios from 'axios'
 
 
 
